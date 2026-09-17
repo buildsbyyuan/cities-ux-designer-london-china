@@ -1,4 +1,5 @@
-# 🏙️ If Cities Had a UX Designer  
+# 🏙️ If Cities Had a UX Designer  (pending atm)
+
 ### London vs Shanghai Edition
 
 A product thinking case study that treats cities like digital products and explores how everyday urban experiences are shaped by design decisions.
